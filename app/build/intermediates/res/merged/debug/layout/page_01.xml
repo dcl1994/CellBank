@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/stemcell_bg">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp"
+        >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bmsc_cell"
+        android:textSize="20sp"
+        android:textColor="@color/text_color"
+        android:layout_gravity="center_horizontal"
+        />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:text="1：基本介绍"
+            android:textSize="15sp"
+            android:layout_marginTop="5dp"
+            />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bmsc_introduction"
+        android:textColor="@color/text_color"
+        android:layout_marginTop="5dp"
+        />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp">
+        <TextView
+            android:id="@+id/msc_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:text="2：突出特点"
+            android:textSize="15sp"
+            />
+        <TextView
+            android:id="@+id/msc_text_ds"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bmsc_specialty"
+            android:textColor="@color/text_color"
+            android:layout_below="@+id/msc_text"
+            android:layout_marginTop="5dp"
+
+            />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp">
+            <TextView
+                android:id="@+id/msc_text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_color"
+                android:text="3：功能"
+                android:textSize="15sp"
+                />
+            <TextView
+                android:id="@+id/msc_text_ds2"
+                android:layout_width="400px"
+                android:layout_height="wrap_content"
+                android:text="@string/bmsc_function"
+                android:textColor="@color/text_color"
+                android:layout_below="@+id/msc_text2"
+                android:layout_marginTop="5dp"
+                />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/bmsc_cell"
+                android:layout_toRightOf="@+id/msc_text_ds2"
+                android:layout_below="@+id/msc_text2"
+               />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp">
+            <TextView
+                android:id="@+id/msc_text3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_color"
+                android:text="4：适应人群"
+                android:textSize="15sp"
+                />
+            <TextView
+                android:id="@+id/msc_text_ds3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bmsc_apply"
+                android:textColor="@color/text_color"
+                android:layout_below="@+id/msc_text3"
+                android:layout_marginTop="5dp"
+                />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="270px"
+                android:layout_below="@+id/msc_text_ds3"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,58 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.2"
+    defaultConfig {
+        applicationId "com.example.smsdemo"
+        minSdkVersion 17
+        targetSdkVersion 18
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+repositories {
+    flatDir { dirs 'libs' }
+
+}
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:support-v4:24.+'
+    compile files('libs/httpclient-4.5.2.jar')
+    compile files('libs/httpcore-4.4.4.jar')
+    compile 'org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client:4.1.2'
+    compile files('libs/jsoup-1.5.2.jar')
+    compile files('libs/jackson-all-1.7.6.jar')
+    compile files('libs/universal-image-loader-1.9.5.jar')
+    compile(name: 'SMSSDK-2.1.2', ext: 'aar')
+    compile(name: 'SMSSDKGUI-2.1.2', ext: 'aar')
+    compile project(':libzxing')
+    /**
+     *  环信SDK
+     */
+    compile files('libs/hyphenatechat_3.2.3.jar')
+    compile 'com.android.support:recyclerview-v7:24.2.1'
+    compile 'com.android.support:cardview-v7:24.1.1'
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support:design:24.2.1'
+    /**
+     * 分享到朋友圈要用到的jar包
+     */
+    compile files('libs/ShareSDK-Wechat-Moments-2.8.1.jar')
+    compile files('libs/mobscreenshotcommon.jar')
+    compile files('libs/ShareSDK-Core-2.8.1.jar')
+    compile files('libs/MobTools-2017.0216.1054.jar')
+    compile files('libs/ShareSDK-Wechat-2.8.1.jar')
+    compile files('libs/ShareSDK-Wechat-Core-2.8.1.jar')
+}

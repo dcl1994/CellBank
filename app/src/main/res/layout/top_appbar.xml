@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="35dp"
+    tools:context="com.example.Activity.CommunityActivity">
+    <LinearLayout
+        android:id="@+id/layout_zone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/zone_bg"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/title_bk"
+            android:paddingBottom="4dip"
+            android:paddingTop="3dip" >
+
+            <TextView
+                android:id="@+id/top_back_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4.0dip"
+                android:drawableLeft="@drawable/share_return"
+                android:gravity="center_vertical"
+                android:text="@string/return_text"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:id="@+id/iv_zone_publish"
+                android:layout_width="45.5dip"
+                android:layout_height="23.5dip"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:paddingLeft="11.0dip"
+                android:paddingRight="11.0dip"
+                android:onClick="onPublishClicked"
+                android:src="@drawable/btn_topic_publish" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/communtiy"
+                android:textSize="14sp"
+                android:textColor="#ffffff"
+                android:layout_centerInParent="true"
+                />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

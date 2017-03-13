@@ -1,0 +1,854 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\pullup_icon_big.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\pullup_icon_big.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\delete.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\test_img08.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\test_img08.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\stemcell_bg.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\stemcell_bg.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\user.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\topic_notice_icon.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\topic_notice_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_c.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\btn_c.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\expert_group.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\expert_group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_a.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\btn_a.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_preview_unselected.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_preview_unselected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\yy_myset_shouhuo01.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\yy_myset_shouhuo01.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\my_topic.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\my_topic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\msc_cell_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\msc_cell_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\me_share_return_press.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\me_share_return_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\message_left.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\message_left.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\refresh_failed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\refresh_failed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_stemcell.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\bg_stemcell.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\gou.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\gou.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\publish_topic_icon.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\publish_topic_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\group_bg.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\group_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\my_attention.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\my_attention.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_dc_c.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\bg_dc_c.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\delet.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\delet.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\topic_search_icon.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\topic_search_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cellbody.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\cellbody.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_left_press.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\tab_left_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_doctor_b.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\bg_doctor_b.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\chat_group.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\chat_group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\button_press.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\button_press.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\alarm.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\alarm.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_data_select.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\icon_data_select.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_preview_focused.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_preview_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\nkcik_cell_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\nkcik_cell_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_del_unfocused.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_del_unfocused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\stemcell.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\stemcell.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_addpic_focused.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_transparent.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\bg_transparent.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_check_on_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\topic_number.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\topic_number.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_choosed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_choosed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\iv_search_icon.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\iv_search_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\msc_bg.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\msc_bg.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_icon_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\share_icon_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\topic_search_press.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\topic_search_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\c.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\c.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\my_message.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\my_message.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\topic_good_icon.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\topic_good_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\user_group.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\user_group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\teamexperts.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\teamexperts.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\nature.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\nature.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\place.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\place.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\refresh_succeed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\refresh_succeed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\me_share_return_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\me_share_return_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\yanzhengma.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\yanzhengma.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\nk_cell.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\nk_cell.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_preview_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_preview_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\button_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\button_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_doctor_d.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\bg_doctor_d.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_icon_press.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\share_icon_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\b.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\b.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\topbar_right_press.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\topbar_right_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\indestrytrends_prossed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\indestrytrends_prossed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_shanchu_unfocused.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wjw.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\wjw.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\message_right.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\message_right.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\add_press.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\add_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\setting_prossed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\setting_prossed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\my_album.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\my_album.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\where.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\where.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_doctor_c.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\bg_doctor_c.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_title_bar.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_title_bar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\publish_topic_press.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\publish_topic_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\titlebar_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\titlebar_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cart.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\cart.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_quxiao_unfocused.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_unfocused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cell_info.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\cell_info.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_back_btn_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_back_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bmsc_cell.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\bmsc_cell.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\add_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\add_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\test_img06.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\test_img06.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\default_personal_image.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\default_personal_image.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\password.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\password.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\app_add.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\app_add.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_shanchu_focused.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\temperature.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\temperature.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\title_three.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\title_three.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bmsc_cell_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\bmsc_cell_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_f.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\btn_f.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_d.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\btn_d.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\username.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\username.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\pull_icon_big.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\pull_icon_big.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\iv_search.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\iv_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\test_img07.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\test_img07.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_bottom_bar.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_bottom_bar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_queding_focused.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\input_camera.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\input_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\topic_tag_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\topic_tag_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\title_one.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\title_one.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\liquid_level.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\liquid_level.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\banner_enter.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\banner_enter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\register.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\register.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\my_company.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\my_company.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\test_img05.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\test_img05.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bmsc_cell_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\bmsc_cell_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\appstart.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\appstart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\company.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\company.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\adsc_cell_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\adsc_cell_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\msc_cell.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\msc_cell.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\topbar_right_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\topbar_right_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_back.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\btn_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_userbg.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\top_userbg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\adsc_cell_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\adsc_cell_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\load_succeed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\load_succeed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\indestrytrends_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\indestrytrends_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_doctor.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\bg_doctor.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\user_top.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\user_top.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cell.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\cell.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\date.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\date.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\my_add.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\my_add.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_album_back.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_album_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\my_experts_team.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\my_experts_team.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\title_two.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\title_two.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\adsc_cell.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\adsc_cell.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\my_userinfo.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\my_userinfo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\test_img02.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\test_img02.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_doctor_e.jpg",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\bg_doctor_e.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\iv_search_press.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\iv_search_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_queding_unfocused.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_unfocused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\phone.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\replay.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\replay.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_no_pictures.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_no_pictures.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\onclick.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\onclick.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\composer_button.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\composer_button.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_cancel.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_cancel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\user_tp.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\user_tp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\qrcode.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\qrcode.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_choose_back.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_choose_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_back_btn.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_back_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\test_img04.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\test_img04.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\load_failed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\load_failed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_send_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_send_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\my_group.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\my_group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\topic.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\topic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\nkcik_cell_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\nkcik_cell_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plubin_camera_del_focused.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plubin_camera_del_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_filenum.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_filenum.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_right_press.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\tab_right_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_bg.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\tab_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\refreshing.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\refreshing.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\msc_cell_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\msc_cell_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_quxiao_focused.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\test_img1.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\test_img1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_send_unselected.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_send_unselected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\my_collection.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\my_collection.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_addpic_unfocused.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\commit_area_01.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\commit_area_01.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_send_focused.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_send_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\plugin_camera_cancel_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_cancel_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_check_off_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_style_one_pressed.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\btn_style_one_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\test_img03.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\test_img03.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\test_img09.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\test_img09.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\setting_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable-hdpi\\setting_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    }
+]

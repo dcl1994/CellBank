@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/topic_tag_bg">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/chat_group"
+            />
+        <TextView
+            android:id="@+id/group_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="群名称"
+            android:layout_toRightOf="@+id/image"
+            android:textSize="16sp"
+            android:maxLines="3"
+            android:textColor="@color/blackmin"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

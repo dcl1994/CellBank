@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\none_underline_shape.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\none_underline_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_input_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\search_input_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_topic_search.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\btn_topic_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\image_add.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\image_add.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_del_state.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\plugin_camera_del_state.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bgstyle.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\bgstyle.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_country_bg_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_country_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\share_style.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\share_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dot_focused.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\dot_focused.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\solid_line.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\solid_line.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_preview.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_preview.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_corners_bg_pre.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_corners_bg_pre.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_albumbackground.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\plugin_camera_albumbackground.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_comment.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\button_comment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bt_nobgd.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_btn_enable.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_btn_enable.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_topic_publish.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\btn_topic_publish.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\top_right_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\top_right_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\progress_style.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\progress_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\title_bk.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\title_bk.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_pic_choose_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\re_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\re_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_corners_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_corners_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_country_group_scroll_up.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_country_group_scroll_up.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_ic_visibility.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dot_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\dot_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_gv.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\bg_gv.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_topic_all_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\radio_topic_all_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_back_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\btn_back_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_cancel.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_cancel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\single.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\single.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_top_pressed.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\btn_top_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_dialog_btn_back.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_dialog_btn_back.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\share_return.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\share_return.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_register.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\button_register.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_back.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_back.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_edittext_bg_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_edittext_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\share_bg_cor.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\share_bg_cor.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\double0.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\double0.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_popuwindow.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\btn_popuwindow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\image_btn.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\image_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\wp_text_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\wp_text_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\relative.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\relative.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_line.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\bg_line.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\edit_text.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\edit_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_search_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\btn_search_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\corners_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\corners_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_while.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\text_while.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_change.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\button_change.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_btn_disenable.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_btn_disenable.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\edittext_bg_shape.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\edittext_bg_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_zone_hot_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\radio_zone_hot_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_ok_btn_state.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\drawable\\plugin_camera_ok_btn_state.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_country_group_scroll_down.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_country_group_scroll_down.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_corners_bg_nor.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_corners_bg_nor.xml"
+    }
+]

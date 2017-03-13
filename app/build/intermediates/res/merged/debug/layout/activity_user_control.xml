@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white">
+    <RelativeLayout
+        android:id="@+id/stemcell_top"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:paddingBottom="4dip"
+        android:paddingTop="3dip"
+        android:background="@drawable/title_bk">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/usercontrol"
+            android:textSize="14sp"
+            android:textColor="#ffffff"
+            android:layout_centerInParent="true"
+            />
+        <TextView
+            android:id="@+id/text_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4.0dip"
+            android:drawableLeft="@drawable/share_return"
+            android:gravity="center_vertical"
+            android:text="@string/return_text"
+            android:textColor="@color/white"
+            android:textSize="14sp"/>
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  提示：用户管理界面可以对用户进行拉黑和删除操作,被加入黑名单的用户无法加入群，无法收发此群的消息
+             * （只有群主才能设置群的黑名单）"
+        android:layout_margin="10dp"
+        android:textSize="14sp"
+        android:textColor="#FF4081"/>
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="输入要操作的用户名"
+        android:textSize="14sp"
+        android:layout_margin="10dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+        <Button
+            android:id="@+id/shielding"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:background="@drawable/image_btn"
+            android:layout_marginLeft="20dp"
+            android:text="拉黑"
+            />
+        <Button
+            android:id="@+id/getBlock"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/image_btn"
+            android:text="获取黑名单"/>
+        <Button
+            android:id="@+id/removeBlock"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/image_btn"
+            android:text="移除黑名单"/>
+
+    </LinearLayout>
+    <ListView
+        android:id="@+id/deletelistview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:divider="#00000000"
+        android:dividerHeight="0dip"
+        android:background="@color/blue_main"/>
+
+</LinearLayout>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.smsdemo"
+    android:versionCode="2"
+    android:versionName="1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="18" />
+    <!-- Required -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!-- <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" /> -->
+    //位置权限
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!-- 截图需要的权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- 获取拍照和相册的权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:name="com.example.application.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/lifebank"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+
+            <!-- QQ和QQ空间分享 QQ登录的回调必须要配置的 -->
+            <intent-filter>
+                <data android:scheme="tencent100371282" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- 新浪微博客户端分享回调必须配置 -->
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- 微信分享回调 -->
+        <activity
+            android:name="com.example.wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- 设置环信应用的AppKey -->
+        <meta-data
+            android:name="EASEMOB_APPKEY"
+            android:value="1182170210178310#lifebank" />
+        <!-- 声明SDK所需的service SDK核心功能 -->
+        <service
+            android:name="com.hyphenate.chat.EMChatService"
+            android:exported="true" />
+        <service
+            android:name="com.hyphenate.chat.EMJobService"
+            android:exported="true"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <!-- 声明SDK所需的receiver -->
+        <receiver android:name="com.hyphenate.chat.EMMonitorReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+            <!-- 可选filter -->
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.example.Activity.MainActivity"
+            android:label="@string/title_activity_app_main"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.Activity.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.Activity.AppStart"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.Activity.RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.Activity.ContactUs"
+            android:label="@string/title_activity_contact_us"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.Activity.ForgetPassword"
+            android:label="@string/title_activity_forget_password"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.Activity.RetrievePassword"
+            android:label="@string/title_activity_retrieve_password"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.Activity.ProductActivity"
+            android:label="@string/title_activity_product" />
+        <activity android:name="com.example.Activity.CommunityActivity" />
+        <activity
+            android:name="com.example.Activity.PublishActivity"
+            android:label="@string/title_activity_publish" />
+        <activity
+            android:name="com.example.Activity.TopicActivity"
+            android:label="@string/title_activity_topic" />
+        <activity
+            android:name="com.example.Activity.DemoActivity"
+            android:label="@string/title_activity_topic" />
+        <activity
+            android:name="com.example.Activity.StemCellsActivity"
+            android:label="@string/title_activity_stem_cells" />
+        <activity
+            android:name="com.example.Activity.IndustrytrendsActivity"
+            android:label="@string/title_activity_industrytrends" />
+        <activity
+            android:name="com.example.Activity.Rel_industry"
+            android:label="@string/title_activity_rel_industry" />
+        <activity
+            android:name="com.example.Activity.FeedBack"
+            android:label="@string/title_activity_feed_back" />
+        <activity
+            android:name="com.example.Activity.TeamExperts"
+            android:label="@string/title_activity_team_experts" />
+        <activity
+            android:name="com.example.Activity.AlbumActivity"
+            android:label="@string/title_activity_album" />
+        <activity
+            android:name="com.example.Activity.GalleryActivity"
+            android:label="@string/title_activity_gallery" />
+        <activity
+            android:name="com.example.Activity.ImageFile"
+            android:label="@string/title_activity_image_file" />
+        <activity
+            android:name="com.example.Activity.ShowAllPhoto"
+            android:label="@string/title_activity_show_all_photo" />
+        <activity
+            android:name="com.example.Activity.UploadActivity"
+            android:label="@string/title_activity_upload" />
+        <activity
+            android:name="com.example.Activity.user"
+            android:label="@string/title_activity_user" />
+        <activity
+            android:name="com.example.Activity.ChangePassword"
+            android:label="@string/title_activity_change_password" />
+        <activity
+            android:name="com.example.Activity.Address"
+            android:label="@string/title_activity_address" />
+        <activity
+            android:name="com.example.Activity.EmailAddress"
+            android:label="@string/title_activity_email_address" />
+        <activity
+            android:name="com.example.Activity.SelectBigImg"
+            android:label="@string/title_activity_select_big_img" />
+        <activity
+            android:name="com.example.Activity.QrCode"
+            android:label="@string/title_activity_qr_code" />
+        <activity
+            android:name="com.example.Activity.OpenClass"
+            android:label="@string/title_activity_open_class" />
+        <activity
+            android:name="com.example.Activity.CliniCalcase"
+            android:label="@string/title_activity_clini_calcase" />
+        <activity android:name="com.example.Activity.AddGroupActivity" />
+        <activity android:name="com.example.Activity.GroupDetailsActivity" />
+        <activity android:name="com.example.Activity.ChatActivity" />
+        <activity android:name="com.example.Activity.ChangeGroupMsg" />
+        <activity android:name="com.example.Activity.UserControlActivity" />
+        <activity android:name="com.xys.libzxing.zxing.activity.CaptureActivity" />
+    </application>
+
+</manifest>

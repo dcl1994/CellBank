@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_photo.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\grid_photo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stem_cells.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_stem_cells.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_group_msg.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_change_group_msg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_04.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\page_04.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menubottom.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\menubottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indestry.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\indestry.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\msg_item.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\msg_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout2.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\list_item_layout2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head_table.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\head_table.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_community.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_community.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_start.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_app_start.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_imageloading.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\dialog_imageloading.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\industrytrends.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\industrytrends.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teaminflate.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\teaminflate.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_email_address.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_email_address.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_all_photo.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_show_all_photo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_topic_search.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_topic_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_group_details.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_no_image_file.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\plugin_camera_no_image_file.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_class.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_open_class.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rel_industry.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_rel_industry.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_password.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_show_all_photo.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\plugin_camera_show_all_photo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_bar_view.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\top_bar_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_back.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_03.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\page_03.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_topic.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_topic.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progressdialog.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\progressdialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_item_list.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\comment_item_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\industry_top.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\industry_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\list_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\double0.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\double0.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_upload.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\selectimg.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\selectimg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\single.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_album.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\plugin_camera_album.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\comment_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_image_file.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\plugin_camera_image_file.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_folder.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\plugin_camera_select_folder.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_file.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_image_file.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clini_calcase.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_clini_calcase.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_top.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindows.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_album.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_album.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_retrieve_password.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_retrieve_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_industrytrends.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_industrytrends.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gallery.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_gallery.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_us.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_gallery.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\plugin_camera_gallery.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reply_item.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\reply_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_01.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\page_01.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_big_img.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_select_big_img.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_02.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\page_02.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_appbar.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\top_appbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_team_experts.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_team_experts.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qr_code.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_qr_code.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_imageview.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\plugin_camera_select_imageview.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_publish.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\thumbnal_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\thumbnal_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_group.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_add_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_control.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_user_control.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\CellBank\\libzxing\\unspecified\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\load_more.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_menu.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\toolbar_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_normal_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\dialog_normal_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\listview_item.xml"
+    }
+]

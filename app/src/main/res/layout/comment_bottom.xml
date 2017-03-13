@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom">
+    <LinearLayout
+        android:id="@+id/comment_vg_lyt"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/solid_line"
+        android:orientation="horizontal"
+        android:paddingTop="5dp">
+        <!--评论框-->
+        <Button
+            android:id="@+id/bottom_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:text="评论一下"
+            android:textColor="#A1A1A1"
+            android:textSize="17sp"
+            android:visibility="visible"
+            android:gravity="center"/>
+    </LinearLayout>
+</LinearLayout>

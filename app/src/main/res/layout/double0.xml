@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="3dp"
+    android:background="@color/white">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/double0">
+        <TextView
+        android:id="@+id/cotext_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="3dp"
+        android:textStyle="bold"
+        />
+        <TextView
+        android:id="@+id/coteamcontent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="false"
+        android:textSize="12sp"
+        android:textColor="@color/white"
+        android:lines="2"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="40dp"
+        android:layout_below="@+id/cotext_title"
+        android:ellipsize="end"
+        />
+
+        <TextView
+        android:id="@+id/cotime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textColor="@color/white"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="40dp"
+        />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <com.example.util.CircleImageView
+        android:id="@+id/coimgload"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_alignParentRight="true"
+        />
+</RelativeLayout>
+</FrameLayout>

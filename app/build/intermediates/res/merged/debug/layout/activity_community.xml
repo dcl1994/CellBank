@@ -1,0 +1,29 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/zone_bg">
+
+    <include layout="@layout/top_appbar"/>
+    <include layout="@layout/activity_topic_search"/>
+    <include layout="@layout/head_table"/>
+
+    <com.example.Activity.PullToRefreshLayout
+    android:id="@+id/refresh_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/refresh_head" />
+    <!-- 支持所有实现Pullable接口的View -->
+    <com.example.model.PullableListView
+        android:id="@+id/content_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:divider="@color/gray"
+        android:dividerHeight="10dp">
+    </com.example.model.PullableListView>
+
+        <include layout="@layout/load_more" />
+    </com.example.Activity.PullToRefreshLayout>
+</LinearLayout>

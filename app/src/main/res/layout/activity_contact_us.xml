@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.Activity.ContactUs"
+    android:background="@drawable/bg">
+
+    <ImageView
+        android:id="@+id/cell"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        />
+    <TextView
+        android:id="@+id/welcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome"
+        android:layout_below="@+id/cell"
+        style="@style/normalText"
+        android:gravity="center_horizontal"/>
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text"
+        style="@style/normalText"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/welcome"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:id="@+id/kefu_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/kefu"
+        style="@style/normalText"
+        android:textIsSelectable="true"
+        android:layout_below="@+id/text"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="15dp"/>
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/email"
+        android:textIsSelectable="true"
+        style="@style/normalText"
+        android:layout_below="@+id/kefu_phone"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="15dp"/>
+<TextView
+    android:id="@+id/companyaddress"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/email"
+    style="@style/normalText"
+    android:textIsSelectable="true"
+    android:gravity="center_horizontal"
+    android:layout_marginTop="15dp"
+    android:text="@string/address"
+    />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:textColor="#ffffff"
+        android:onClick="return1"
+        android:layout_below="@+id/companyaddress"
+        android:background="@drawable/button_bg"
+        android:text="@string/return_text"
+        android:textSize="16sp"
+        android:layout_margin="15dp"
+        android:layout_centerHorizontal="true"
+        />
+</RelativeLayout>

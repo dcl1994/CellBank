@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:id="@+id/stemcell_top"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:paddingBottom="4dip"
+        android:paddingTop="3dip"
+        android:background="@drawable/title_bk">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/product"
+            android:textSize="14sp"
+            android:textColor="#ffffff"
+            android:layout_centerInParent="true"
+            />
+        <TextView
+            android:id="@+id/text_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4.0dip"
+            android:drawableLeft="@drawable/share_return"
+            android:gravity="center_vertical"
+            android:text="@string/return_text"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            />
+    </RelativeLayout>
+</LinearLayout>

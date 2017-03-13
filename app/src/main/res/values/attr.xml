@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="position">
+        <enum name="left_top" value="0" />
+        <enum name="left_bottom" value="1" />
+        <enum name="right_top" value="2" />
+        <enum name="right_bottom" value="3" />
+    </attr>
+    <declare-styleable name="ArrowRectangleView">
+        <attr name="position" />
+        <!--箭头宽度-->
+        <attr name="arrow_width" format="dimension"/>
+
+        <!--箭头高度-->
+        <attr name="arrow_height" format="dimension"/>
+
+        <!--箭头水平偏移-->
+        <attr name="arrow_offset" format="dimension"/>
+
+        <!--圆角半径-->
+        <attr name="radius" format="dimension" />
+
+
+        <!--菜单背景色-->
+        <attr name="background_color" format="color" />
+
+        <!--阴影色-->
+        <attr name="shadow_color" format="color" />
+
+        <!--阴影厚度-->
+        <attr name="shadow_thickness" format="dimension" />
+
+
+
+    </declare-styleable>
+</resources>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:layout_marginTop="15dp">
+
+    <LinearLayout
+        android:id="@+id/bmsc_cell"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+        <ImageView
+      android:id="@+id/iv_bmsc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/bmsc_cell_pressed" />
+        <TextView
+        android:id="@+id/tv_bmsc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:text="骨髓干细胞"
+        android:textColor="@color/blue"
+         />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/msc_cell"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:id="@+id/iv_msc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/msc_cell_normal" />
+        <TextView
+            android:id="@+id/tv_msc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:text="间充质干细胞"
+            android:textColor="@color/text_color"
+            />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/adsc_cell"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            >
+            <ImageView
+                android:id="@+id/iv_adsc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/adsc_cell_normal" />
+            <TextView
+                android:id="@+id/tv_adsc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="脂肪干细胞"
+                android:textColor="@color/text_color"
+               />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/nkcik_cell"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/iv_nkcik"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/nkcik_cell_normal" />
+        <TextView
+            android:id="@+id/tv_nkcik"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:text="NK,CIK细胞"
+            android:textColor="@color/text_color"
+           />
+
+    </LinearLayout>
+</LinearLayout>

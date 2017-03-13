@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.example.widget.ArrowRectangleView
+    app:shadow_thickness="5dp"
+    app:shadow_color="#66000000"
+    app:background_color="#ffb1df83"
+    app:radius="5dp"
+    app:arrow_height="8dp"
+    app:arrow_width="16dp"
+    app:arrow_offset="31dp"
+    android:splitMotionEvents="false"
+    android:paddingRight="3dp"
+    android:paddingLeft="3dp"
+    android:background="@android:color/transparent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:id="@+id/menu01"
+        android:layout_height="42dp"
+        android:layout_width="wrap_content">
+    <TextView
+        android:paddingRight="32dp"
+        android:paddingLeft="16dp"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="修改群信息"
+        android:clickable="false"
+        android:textColor="#3e3d3d"
+        android:textSize="16sp"
+        android:layout_gravity="center_vertical"/>
+</LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/menu02"
+        android:layout_height="42dp"
+        android:layout_width="wrap_content">
+        <TextView
+            android:paddingRight="32dp"
+            android:paddingLeft="16dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="用户管理"
+            android:clickable="false"
+            android:textColor="#3e3d3d"
+            android:textSize="16sp"
+            android:layout_gravity="center_vertical"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/menu03"
+        android:layout_height="42dp"
+        android:layout_width="wrap_content">
+        <TextView
+            android:paddingRight="32dp"
+            android:paddingLeft="16dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="删除群聊"
+            android:clickable="false"
+            android:textColor="#3e3d3d"
+            android:textSize="16sp"
+            android:layout_gravity="center_vertical"/>
+    </LinearLayout>
+</com.example.widget.ArrowRectangleView>

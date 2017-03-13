@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">万海生命银行</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_app_start">AppStart</string>
+    <string name="title_activity_app_main">MainActivity</string>
+    <string name="login">登录</string>
+    <string name="register_success">注册成功！</string>
+    <string name="docterlogin">医生登录</string>
+    <string name="login_register_link"> <a href="#" mce_href="#">注册</a></string>
+    <string name="login_forgetpassword_link"><a href="#" mce_href="#">忘记密码?</a></string>
+    <string name="login_contact_us_link"><a href="#" mce_href="#">联系我们</a></string>
+    <string name="kefu">客服联系电话:<a href="#" mce_href="#">0769-22890598</a></string>
+    <string name="kefu2"><a href="#" mce_href="#">0769-22890598</a></string>
+    <string name="email">邮箱地址:<a href="#" mce_href="#">KEFU@WANHAI.COM </a></string>
+    <string name="address">公司地址:<a href="#" mce_href="#">东莞市松山湖高新技术产业开发区创新科技园9栋208室 </a></string>
+    <string name="text">欢迎使用生命银行手机APP</string>
+    <string name="welcome">尊敬的用户您好!</string>
+    <string name="password">密码</string>
+    <string name="login_username_hint">手机号</string>
+    <string name="register">注册</string>
+    <string name="return_text">返回</string>
+    <string name="user">个人信息</string>
+    <string name="myqrcode">我的二维码</string>
+    <string name="favorable">优惠活动</string>
+    <string name="clinicalcase">临床案例</string>
+    <string name="openclass">公开课</string>
+    <string name="myqrcodecomment">
+        扫一扫上面的二维码了解我们公司的产品
+    </string>
+
+    <string name="retrieve_password">找回密码</string>
+    <string name="change">修改密码</string>
+    <string name="product">产品介绍</string>
+    <string name="username">名字</string>
+    <string name="address_user">地址</string>
+    <string name="email_address">邮箱地址</string>
+    <string name="companyprofile">公司介绍</string>
+    <string name="industrytrends">行业动态</string>
+    <string name="industrytrends_comment">详细内容</string>
+    <string name="stemcell">我的细胞</string>
+    <string name="feedback">专家咨询</string>
+    <string name="usercontrol">用户管理</string>
+    <string name="group_details">群详细介绍</string>
+    <string name="chact">聊天界面</string>
+    <string name="addgroup">创建群组</string>
+    <string name="changegroup">修改群信息</string>
+    <string name="teamexperts">专家团队</string>
+    <string name="communtiy">我的社群</string>
+    <string name="topic">发表话题</string>
+    <string name="topic_btn">发表</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_contact_us">ContactUs</string>
+    <string name="title_activity_my_grid_view">MyGridView</string>
+    <string name="title_activity_forget_password">ForgetPassword</string>
+    <string name="title_activity_retrieve_password">RetrievePassword</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="bmsc_cell">骨髓干细胞</string>
+    <string name="msc_cell">间充质干细胞</string>
+    <string name="adsc_cell">脂肪干细胞</string>
+    <string name="nkcik_cell">NK,CIK细胞</string>
+
+
+    <!-- 图片浏览 -->
+    <string name="only_choose_num">超出可选图片张数</string>
+    <string name="finish">完成</string>
+    <string name="invalidSD">sdcard无效或没有插入！</string>
+    <string name="photo">选择相册</string>
+    <string name="album">相册</string>
+    <string name="preview">预览</string>
+    <string name="unfinished">完成</string>
+    <string name="camera_cancel">取消</string>
+    <string name="no_photo">相册没有图片</string>
+
+
+    <!--专家介绍-->
+    <string name="experts01">
+    李相鲁博士\n万海生物创始人 \n 美国华盛顿大学圣诺伊斯医学院博士后 \n 国内外细胞治疗界权威专家
+    </string>
+     <string name="experts02">
+    张严冬教授\n美国华盛顿大学圣诺伊斯医学院博士后\n南方科技大学博导\n深圳市孔雀计划人才
+    </string>
+
+    <string name="experts03">
+        陈怡邦教授\n美国华纽约大学西奈山医学院博士后\n西奈山医学院药理实验室负责人、教授
+    </string>
+    <string name="experts04">
+        陈俊 主任医师\n主任医师、男科专家、性与生殖系统专家\n中山大学附属第三医院不育与性医学科主任医师
+    </string>
+     <string name="experts05">
+       陈怀永博士\n免疫学专家\n中科院北京生物物理研究所博士\n杜克大学免疫学、医学博士后\n天津海河医院实验部副主任
+    </string>
+     <string name="experts06">
+      王涛 博士\n医学博士、副教授、副主任医师、硕士生导师\n华中科学大学同济医学院博士\n中华医学会男科学分会第四届青年委员会委员
+    </string>
+      <string name="experts07">
+     尹建平 教授\n主任技师\n武汉血液中心教授\n血液质量与输血安全专家\n造血干细胞移植权威专家
+    </string>
+      <string name="experts08">
+     谢海涛  博士\n生物治疗专家\n哈工大遗传学博士\n深圳市领军人才
+    </string>
+
+
+    <string name="topic_main">生命银行已上线,正在火热招商中!!!&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;生命银行已上线,正在火热招商中!!!</string>
+
+    <string name="topic_onetitle">【重磅快讯】国家卫计委官方备案的干细胞临床研究项目再增加八个（附项目详细信息）</string>
+    <string name="topic_one">干细胞之家微信公众号曾在前天（12月12日）发布了通过国家卫计委官方备案的五个干细胞临床研究项目，详情请见（【重磅首发】目前我国已通过卫计委备案的五个干细胞临床研究项目汇总（附项目详细信息）</string>
+
+    <string name="topic_twotitle">【ASH 2016】我国低剂量CAR-T治疗复发/难治B-ALL的研究入选口头报告</string>
+    <string name="topic_two">在ASH 2016上，我国河北燕达陆道培医院童春容主任医师、同济大学医学院张鸿声教授作为共同通讯作者发表的一项研究入选了口头报告，两位接受了本报记者的采访。</string>
+
+    <string name="topic_threetitle">Nature：重大发现！鉴定出负责启动和促进多种肿瘤转移的细胞</string>
+    <string name="topic_three">在一项新的研究中，西班牙研究人员通过一种特定的被称作蛋白CD36的标志物鉴定出转移起始细胞（metastasis-initiating cell）。这种在肿瘤细胞膜中发现的蛋白负责摄取脂肪酸。CD36活性和对脂质代谢的依赖性可将转移起始细胞与其他的肿瘤细胞区分开来。相关研究结果于2016年12月7日在线发表在Nature期刊上，论文标题为“Targeting metastasis-initiating cells through the fatty acid receptor CD36”。</string>
+    <string name="companycomment">
+    &#160;&#160;作为全国首家大规模推广干细胞免疫治疗技术的企业，我们坚持“技术引领、分享共赢”的企业发展理念，已布局华南、华东、华中、中原、西北、西南等10个干细胞工程中心并与全国50多家医院建立了良好的合作关系。
+    </string>
+    
+    <string name="cooperation">
+        &#160;&#160;广东万海细胞生物科技有限公司是一家以东莞市麦亘生物科技有限公司主导的，致力于开发新型细胞治疗技术的高科技企业。公司成立于2015年，总部坐落于美丽的东莞市松山湖国家高新区，专注于细胞免疫治疗领域技术开发和产品推广，公司不到一年时间迅速云集了来自于美国、台湾、欧洲等海内外干细胞领域知名专家，5位核心技术人员全部具有留美博后背景，30多位技术人员全部具有国内重点院校硕博学位。公司十分重视知识产权建设和保护，目前已申请80多项国家国内、国际发明专利，同行业第一.
+作为全国首家大规模推广干细胞免疫治疗技术的企业，我们坚持“技术引领、分享共赢”的企业发展理念，已布局华南、华东、华中、中原、西北、西南等10个干细胞工程中心并与全国50多家医院建立了良好的合作关系。
+    </string>
+
+    <string name="socialmission">
+       &#160;&#160;广东万海细胞生物科技有限公司是一家以东莞市麦亘生物科技有限公司主导的，致力于开发新型细胞治疗技术的高科技企业。公司成立于2015年，总部坐落于美丽的东莞市松山湖国家高新区，专注于细胞免疫治疗领域技术开发和产品推广，公司不到一年时间迅速云集了来自于美国、台湾、欧洲等海内外干细胞领域知名专家，5位核心技术人员全部具有留美博后背景，30多位技术人员全部具有国内重点院校硕博学位。公司十分重视知识产权建设和保护，目前已申请80多项国家国内、国际发明专利，同行业第一.
+作为全国首家大规模推广干细胞免疫治疗技术的企业，我们坚持“技术引领、分享共赢”的企业发展理念，已布局华南、华东、华中、中原、西北、西南等10个干细胞工程中心并与全国50多家医院建立了良好的合作关系。
+    </string>
+
+
+    <!--骨髓干细胞-->
+    <string name="bmsc_introduction">
+        骨髓间充质干细胞（mesenchymal stem cells,MSC）是干细胞家族的重要成员，来源于发育早期的中胚层和外胚层，
+        其中骨髓造血干细胞是指人体骨髓中的多能造血干细胞。</string>
+    <string name="bmsc_specialty">骨髓的造血能力极强，骨髓最高的造血能力可达到正常造血情况的9倍，
+        如果只保留骨髓的十分之一，就能完成正常的造血功能。人体的造血组织有很强的代偿功能，当抽取部分骨髓后，
+        造血干细胞会加快增殖，在一、二周内完全恢复原来的水平。因此不会影响自身的造血功能。</string>
+    <string name="bmsc_function">
+        骨髓造血干细胞移植可以治疗许多血液病，包括：血液系统恶性肿瘤，如急性白血病、慢性粒细胞白血病、淋巴瘤、
+        多发性骨髓瘤、骨髓增生异常综合征等，某些血液系统非恶性肿瘤，如重型再生障碍性贫血、地中海贫血。
+    </string>
+    <string name="bmsc_apply">患上了急性白血病、慢性粒细胞白血病、淋巴瘤、多发性骨髓瘤、骨髓增生异常综合征，
+        某些血液系统非恶性肿瘤，如重型再生障碍性贫血、地中海贫血的患者。</string>
+
+    <!--间充质干细胞-->
+    <string name="msc_introduction">
+        间充质干细胞（Mesenchymal Stem Cell，MSC）属于多能干细胞，具有自我更新、多向分化和归巢的能力，能够分化出
+        神经、心脏、肝脏、骨、软骨、肌腱、脂肪、上皮等多种细胞,间充质干细胞分布在脐带、脐带血、胎盘、骨髓、脂肪、
+        胸腺、牙髓等多个组织中，其中由于脐带间充质干细胞含量丰富、取材方便、细胞质量高、纯净、数量多等特点，
+        是临床应用的主要间充质干细胞。
+    </string>
+    <string name="msc_specialty">
+    间充质干细胞新技术是全身性、根本性、持续性、革命性、划时代的抗衰及治疗新技术，该技术重点具有以下特点：1:归巢能力出众，2:存活时间持久，
+        3:分化潜能全面，4:免疫原性低无排斥反应。
+    </string>
+    <string name="msc_function">
+间充质干细胞分布在脐带、脐带血、胎盘、骨髓、脂肪、胸腺、牙髓等多个组织中，其中由于脐带间充质干细胞含量丰富、取材方便、
+        细胞质量高、纯净、数量多等特点，是临床应用的主要间充质干细胞,由于间充质干细胞的自我复制和多向分化潜能，
+        通过输注间充质干细胞，达到修复人体器官组织，从根本上减缓衰老、治疗红斑狼仓、老年性痴呆、帕金森综合征、中风、
+        糖尿病、肝硬化等退行性疾病。
+    </string>
+    <string name="msc_apply">
+	预防衰老，要求维持机体年轻化、面部美容年轻化的人群
+	高压力、工作紧张、亚健康人群
+	内分泌及性功能衰退人群：男性、女性性功能下降、减退，女性月经失调、内分泌紊乱，卵巢早衰、更年期提前，睡眠、情绪欠佳等
+	机体未老先衰人群：机体衰老，缺乏活力，易疲倦，组织器官功能老化等；
+	心血管系统功能退变人群：动脉硬化、老化，冠状动脉硬化、狭窄，血压增高等
+	内脏器官功能退化人群：心、肝、肺、肾、胃肠等器官功能衰退或下降
+	骨骼运动系统退变人群：骨质疏松，骨关节增生疼痛，骨关节退变，关节炎，肌肉、韧带、肌腱功能退化，运动及活动能力下降等
+	免疫系统衰退人群：免疫力弱，易感冒或患感染性疾病等
+	血液系统功能衰退人群：血脂高，血粘稠度高，血液流变学改变等
+	疾病方面：慢炎疾病稳定期（恶性肿瘤除外），如高血压、糖尿病、冠心病、肝硬化、中风、手术后、神经系统损伤或疾病等；急性疾病发作期，如心肌梗死、脑中风等；自身免疫性疾病，如红斑狼疮、Ⅰ型糖尿病等
+    </string>
+
+    <!--脂肪干细胞-->
+    <string name="adsc_introduction">
+    脂肪干细胞（adipose-derived stem cells，ADSCs）也是一种多能干细胞，是近年来从脂肪组织中分离得到的一种具有多向分化潜能的干细胞，具有向脂肪、软骨、成骨、成肌、内皮等多向分化潜，主要恢复组织细胞的修复功能，促进细胞的再生，恢复年轻面容的同时，身体机能也得到充分改善，有效改善亚健康、早衰等疾病。
+脂肪干细胞来源于人体脂肪组织，如臀部。
+    </string>
+    <string name="adsc_specialty">
+脂肪干细胞最大的特点在于“自体”，无排异性，另外脂肪干细胞具有以下明显特点：1:无免疫排斥，2:取材方便数量丰富，3:分化能力强，可诱导分化成多种细胞，4:重编程能力强，
+        5:可作为细胞治疗的载体细胞，6:可用于美容整形。
+    </string>
+    <string name="adsc_function">
+    脂肪干细胞比较突出的功效是丰胸、除皱美容、丰唇、乳腺癌术后乳房重塑、面部缺陷修复，另外，脂肪干细胞在皮肤美容、免疫力提升、性器官衰老对抗、冠心病、糖尿病、脑血管病、老年痴呆等治病治疗方面功效也非常突出，在将来，脂肪干细胞还将主要应用于人类克隆心脏、肾脏等。
+    </string>
+    <string name="adsc_apply">
+   	有丰胸、美臀、乳房重塑相关需求人群
+    高压力、工作紧张、亚健康人群
+	 内分泌及性功能衰退人群：男性、女性性功能下降、减退，女性月经失调、内分泌紊乱，卵巢早衰、更年期提早，睡眠、情绪欠佳等
+	机体未老先衰人群：机体衰老，缺乏活力，易疲惫，组织器官功能老化等
+	心血管系统功能退变人群：动脉硬化、老化、冠状动脉硬化、狭窄，血压增高等
+	内脏器官功能退化人群：心、肝、肺、肾、 肠胃等器官功能衰退或下降
+	 骨骼运动系统退变人群：骨质疏松，骨关节增生疼痛，骨关节退变，关节炎，肌肉、韧带、肌腱功能退化，运动及活动能力下降等
+	 疾病方面：慢性疾病稳定期(恶性肿瘤除外)，如高血压、糖尿病、冠心病、肝硬化、中风、手术后、神经系统损伤或疾病等;急性疾病发作期，如心肌梗死、脑中风等;自身免疫性疾病，如红斑狼  疮、I型糖尿病
+
+    </string>
+
+    <!--NK,CIK细胞-->
+    <string name="nkcik_introduction">
+    NK细胞全称“natural killer cell”，又称自然杀伤细胞，是人体内非常重要的免疫细胞。
+    人体自身具有免疫能力，构建人体免疫能力的是免疫系统，人体免疫系统是一个非常复杂而精密的系统，构建免疫系统依靠的是免疫细胞，不同的免疫细胞分管不同的免疫功能。NK细胞是人体的第一道防线，能够杀伤寄生虫、真菌、细菌、病毒感染细胞。
+
+    </string>
+
+    <string name="nkcik_introduction2">
+        CIK细胞全称cytokine-induced killer细胞，也称“多种细胞因子诱导的杀伤细胞”，是将人外周血单个核细胞在体外用多种细胞因子共同培养一段时间后获得的一群异质细胞。
+
+    </string>
+
+    <string name="nkcik_specialty">
+        NK细胞不同于人体内的T细胞、B细胞等特异性免疫细胞，它是属于非特异性免疫细胞，所谓非特异性就是具有广谱的杀伤性，
+        可以“通杀”各类细菌、病毒。另外，NK细胞具有自然杀伤活性，不需要像T细胞、B细胞那样需要复杂的作用机制，可以直接杀伤靶细胞。
+    </string>
+
+     <string name="nkcik_specialty2">
+   	CIK细胞增殖能力很强，增殖速度也很快，在培养22天后，增殖细胞数量超过100倍。
+	抗肿瘤活性细胞可大量增殖，且细胞活性也大大增强。
+	杀瘤谱广，可用于白血病、淋巴瘤、肺癌、胃癌、肠癌、髓性白血病、黑色素瘤、肾细胞癌、转移性肾癌、非何杰金氏淋巴瘤、结肠癌、乳腺癌、肝癌、胃癌等等多种肿瘤的治疗，对多重耐药肿瘤细胞同样敏感。
+	是典型的个性化生物治疗模式。将这类细胞回输后，还能使机体免疫能力提高，产生特异的抗病毒作用，从而对肿瘤治疗施以双重的作用。
+
+    </string>
+
+
+    <string name="nkcik_apply">
+   	 CIK细胞适应人群:免疫力低下者
+	癌症病人辅助治疗需求人群
+    亚健康人群
+	有癌症预防需求的人群
+    </string>
+
+     <string name="nkcik_apply2">
+          NK细胞适应人群:
+    白血病、淋巴瘤、肺癌、胃癌、肠癌、髓性白血病、黑色素瘤、肾细胞癌、转移性肾癌、非何杰金氏淋巴瘤、
+         结肠癌、乳腺癌、肝癌、胃癌等肿瘤患者。
+    </string>
+
+
+    <string name="zone_tab_hot_tag">热门标签</string>
+    <string name="zone_base_section_tab_alltopics">全部话题</string>
+    <string name="title_activity_topic_search">TopicSearchActivity</string>
+    <string name="cancel">取消</string>
+    <string name="search_input_hint">输入关键字</string>
+    <string name="topic_title">输入话题标题</string>
+    <string name="topic_content">输入话题内容</string>
+    <string name="send">发送</string>
+
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+
+    <string name="title_activity_publish">PublishActivity</string>
+    <string name="cell_notice">公告区</string>
+    <string name="cell_good">精华区</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="refresh_succeed">刷新成功</string>
+    <string name="refresh_fail">刷新失败</string>
+    <string name="load_succeed">加载成功</string>
+    <string name="load_fail">加载失败</string>
+    <string name="release_to_load">松开载入更多</string>
+    <string name="loading">正在加载...</string>
+    <string name="pullup_to_load">上拉加载更多</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="refreshing">正在加载...</string>
+
+    <string name="title_alert">提示</string>
+    <string name="ok">确定</string>
+    <string name="content">确定删除此话题？</string>
+    <string name="title_activity_topic">TopicActivity</string>
+    <string name="title_activity_stem_cells">StemCellsActivity</string>
+    <string name="title_activity_example">ExampleActivity</string>
+    <string name="title_activity_industrytrends">IndustrytrendsActivity</string>
+    <string name="title_activity_tab_host">TabHost</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="title_activity_rel_industry">Rel_industry</string>
+    <string name="title_activity_rel_industry1">Rel_industry1</string>
+    <string name="title_activity_rel_industry2">Rel_industry2</string>
+    <string name="title_activity_feed_back">FeedBack</string>
+    <string name="title_activity_company_profile">CompanyProfile</string>
+    <string name="title_activity_team_experts">TeamExperts</string>
+    <string name="title_activity_album">AlbumActivity</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_image_file">ImageFile</string>
+    <string name="title_activity_show_all_photo">ShowAllPhoto</string>
+    <string name="title_activity_upload">UploadActivity</string>
+    <string name="title_activity_user">user</string>
+    <string name="title_activity_change_password">ChangePassword</string>
+    <string name="title_activity_address">Address</string>
+    <string name="title_activity_email_address">EmailAddress</string>
+    <string name="title_activity_topic__item">Topic_Item</string>
+    <string name="title_activity_select_big_img">SelectBigImg</string>
+    <string name="title_activity_qr_code">QrCode</string>
+    <string name="title_activity_commonality">commonality</string>
+    <string name="title_activity_open_class">OpenClass</string>
+    <string name="title_activity_favorable">Favorable</string>
+    <string name="title_activity_clini_calcase">CliniCalcase</string>
+
+    <string name="share_friend_txt_title">朋友圈分享</string>
+    <string name="share_feedback_txt_title">问题反馈</string>
+
+</resources>

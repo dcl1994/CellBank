@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.Activity.LoginActivity"
+    android:background="@drawable/bg">
+
+    <RelativeLayout
+        android:id="@+id/relativelayout"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="230dp"
+        android:layout_centerHorizontal="true">
+       <com.example.Activity.MyEditText
+           android:id="@+id/phone"
+           android:layout_width="match_parent"
+           android:layout_height="35dp"
+           android:background="@drawable/edit_text"
+           android:hint="请输入电话号码"
+           android:maxLength="11"
+           android:inputType="phone"
+           android:textSize="16sp"
+           android:textColor="#393a3f"
+           android:textColorHint="#888"
+           android:singleLine="true"
+           android:layout_centerHorizontal="true"
+           android:layout_marginTop="10dp"
+           />
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_below="@+id/phone"
+            android:background="@drawable/edit_text"
+            android:drawableLeft="@drawable/password"
+            android:textSize="16sp"
+            android:hint="请输入密码"
+            android:inputType="numberPassword"
+            android:maxLength="11"
+            android:textColor="#393a3f"
+            android:textColorHint="#919299"
+            android:singleLine="true"
+            android:layout_marginTop="15dp"
+            />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/password">
+            <!--医生登录-->
+            <TextView
+                android:id="@+id/doctor_login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="医生登录:"
+                style="@style/normalText"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="35dp"
+                />
+            <CheckBox
+                android:id="@+id/checkbox1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox"
+                android:checked="false"
+                android:layout_marginTop="8dp"
+                android:layout_toRightOf="@+id/doctor_login"
+                />
+           <!--记住账号-->
+            <TextView
+                android:id="@+id/Remember_account"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="记住账号:"
+                style="@style/normalText"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="35dp"
+                android:layout_toRightOf="@+id/doctor_login"
+                />
+
+            <CheckBox
+                android:id="@+id/checkbox2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox"
+                android:checked="false"
+                android:layout_marginTop="8dp"
+                android:layout_toRightOf="@+id/Remember_account"
+                />
+            <Button
+                android:id="@+id/login"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_below="@+id/doctor_login"
+                android:textColor="#ffffff"
+                android:background="@drawable/button_bg"
+                android:text="@string/login"
+                android:textSize="16sp"
+                android:layout_marginTop="15dp"
+                android:layout_centerHorizontal="true"
+                />
+
+            <!--注册界面-->
+            <TextView  android:id="@+id/register_link"
+                android:text="@string/login_register_link"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="15dp"
+                style="@style/normalText"
+                android:textColorLink="#FF0066CC"
+                android:layout_below="@+id/login"
+                />
+
+            <!--忘记密码-->
+            <TextView  android:id="@+id/forgetpassword"
+                android:text="@string/login_forgetpassword_link"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/register_link"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="15dp"
+                style="@style/normalText"
+                android:textColorLink="#FF0066CC"
+                android:layout_below="@+id/login"
+                />
+
+            <!--联系我们-->
+            <TextView  android:id="@+id/contact_us"
+                android:text="@string/login_contact_us_link"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/forgetpassword"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="15dp"
+                style="@style/normalText"
+                android:textColorLink="#FF0066CC"
+                android:layout_below="@+id/login"
+                />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

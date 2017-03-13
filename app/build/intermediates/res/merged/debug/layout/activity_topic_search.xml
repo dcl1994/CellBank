@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="3dp"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="本社群成立的宗旨是便于用户与专家之间的交流,欢迎大家积极反馈沟通。"
+        android:textColor="@color/blackmin"
+        android:padding="2dp"
+        />
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="5.0dip"
+                android:background="@drawable/search_input_bg"
+                android:paddingLeft="8.5dip"
+                android:paddingRight="8.5dip"
+                android:focusable="true"
+                android:focusableInTouchMode="true">
+
+                <ImageView
+                    android:id="@+id/iv_search_icon"
+                    android:layout_width="25dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="4.0dip"
+                    android:src="@drawable/btn_search_icon"
+                    />
+
+                <EditText
+                    android:id="@+id/et_search_topic"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toRightOf="@+id/iv_search_icon"
+                    android:background="@color/transparent"
+                    android:hint="@string/search_input_hint"
+
+                    android:singleLine="true"
+                    android:textColor="@color/text_color"
+                    android:textColorHint="@color/text_color"
+                    android:textSize="16.0sp" />
+            </RelativeLayout>
+
+
+</LinearLayout>
