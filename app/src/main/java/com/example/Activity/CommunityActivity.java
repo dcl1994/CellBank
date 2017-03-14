@@ -41,9 +41,7 @@ import java.util.Map;
 
 public class CommunityActivity extends Activity implements PullToRefreshLayout.OnRefreshListener {
     /**
-     * 社群
-     *
-     * @param savedInstanceState
+     * 社群界面
      */
     private TextView mtextview;
     private long exitTime = 0;
@@ -59,8 +57,8 @@ public class CommunityActivity extends Activity implements PullToRefreshLayout.O
     private SharedPreferences spf;
     private SharedPreferences userspf;
     MyAdapter adapter;
-    //    onRefreshThread onfreshthread;  //下拉
-//    onLoadMoreThread onloadthread; //上拉
+    //onRefreshThread onfreshthread;  //下拉
+    //onLoadMoreThread onloadthread; //上拉
     private static int count = 0;
 
     private MyOnfreshTask myOnfreshTask; //下拉
@@ -191,38 +189,41 @@ public class CommunityActivity extends Activity implements PullToRefreshLayout.O
 //        }
 //    };
 
-    //删除的handler
-    private Handler handlerdele = new Handler() {
-        @Override
-        public void handleMessage(Message msg) {
-            Thread thread = new Thread() {
-                @Override
-                public void run() {
-                    resultmap = RequestUtil.getPDAServerData("delTopic.action?topicId=" + topics.get(Integer.parseInt(delPosition)).getId());
-                    super.run();
-                }
-            };
-            thread.start();
-            while (resultmap == null) {
-            }
-            if (resultmap.get("message").equals("success")) {
-                Toast.makeText(mContext, "删除成功", Toast.LENGTH_SHORT).show();
-                int p = Integer.parseInt(delPosition);
-                if (topics.remove(p) != null) {
-                    System.out.println("success");
-                } else {
-                    System.out.println("failed");
-                }
-                adapter = new MyAdapter(CommunityActivity.this, topics, "");
-                listView.setAdapter(adapter);
-                adapter.notifyDataSetChanged();
-                super.handleMessage(msg);
-            }
-            resultmap = null;
-        }
-    };
+//    //删除的handler
+//    private Handler handlerdele = new Handler() {
+//        @Override
+//        public void handleMessage(Message msg) {
+//            Thread thread = new Thread() {
+//                @Override
+//                public void run() {
+//                    resultmap = RequestUtil.getPDAServerData("delTopic.action?topicId=" + topics.get(Integer.parseInt(delPosition)).getId());
+//                    super.run();
+//                }
+//            };
+//            thread.start();
+//            while (resultmap == null) {
+//            }
+//            if (resultmap.get("message").equals("success")) {
+//                Toast.makeText(mContext, "删除成功", Toast.LENGTH_SHORT).show();
+//                int p = Integer.parseInt(delPosition);
+//                if (topics.remove(p) != null) {
+//                    System.out.println("success");
+//                } else {
+//                    System.out.println("failed");
+//                }
+//                adapter = new MyAdapter(CommunityActivity.this, topics, "");
+//                listView.setAdapter(adapter);
+//                adapter.notifyDataSetChanged();
+//                super.handleMessage(msg);
+//            }
+//            resultmap = null;
+//        }
+//    };
 
-
+    /**
+     * 初始化
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -244,6 +245,7 @@ public class CommunityActivity extends Activity implements PullToRefreshLayout.O
         });
         //监听EditText内容变化
         edit_search.addTextChangedListener(watcher);
+
         spf = getSharedPreferences(PREFERENCES_NAME, MODE_PRIVATE);
         userspf = getSharedPreferences("userinfo", MODE_PRIVATE);
         userid = userspf.getString("userid", "");
@@ -263,10 +265,8 @@ public class CommunityActivity extends Activity implements PullToRefreshLayout.O
 
         @Override//文本改变后
         public void afterTextChanged(Editable editable) {
-//            accessThreadSearch threadSearch = new accessThreadSearch(); //search的线程
-//            threadSearch.start();
             edittext = edit_search.getText().toString();
-            SearchTask searchTask = new SearchTask();     //开启search的异步线程处理
+            searchTask = new SearchTask();     //开启search的异步线程处理
             searchTask.execute();
         }
     };
@@ -287,7 +287,6 @@ public class CommunityActivity extends Activity implements PullToRefreshLayout.O
 
     //初始化listview
     private void initListView() {
-
         adapter = new MyAdapter(this, topics, "");
         listView.setAdapter(adapter);
 
@@ -308,8 +307,11 @@ public class CommunityActivity extends Activity implements PullToRefreshLayout.O
                         @Override
                         public void onClick(DialogInterface dialogInterface, int i) {
                             dialogInterface.dismiss();
-                            Message msg = new Message();
-                            handlerdele.sendMessage(msg);
+                            /**
+                             * 删除的异步处理
+                             */
+                            DeletAsynctask deletAsynctask = new DeletAsynctask();
+                            deletAsynctask.execute();
                         }
                     });
                     //添加AlertDialog.Builder对象的setNegativeButton()方法
@@ -423,6 +425,10 @@ public class CommunityActivity extends Activity implements PullToRefreshLayout.O
         }
     }
 
+
+    /**
+     * 在onPause中使异步线程状态和Activity进行绑定
+     */
     @Override
     protected void onPause() {
         if (myOnfreshTask != null && myOnfreshTask.getStatus() == AsyncTask.Status.RUNNING) {
@@ -430,24 +436,23 @@ public class CommunityActivity extends Activity implements PullToRefreshLayout.O
             myOnfreshTask.cancel(true);
         }
         if (onloadTask != null && onloadTask.getStatus() == AsyncTask.Status.RUNNING) {
-            myOnfreshTask.cancel(true);
-
+            onloadTask.cancel(true);
         }
         super.onPause();
     }
 
-    //下拉刷新
+    /**
+     * 下拉刷新
+     * @param pullToRefreshLayout
+     */
     @Override
     public void onRefresh(final PullToRefreshLayout pullToRefreshLayout) {
-        // 下拉刷新操作
         new Handler() {
             @Override
             public void handleMessage(Message msg) {
-                // 千万别忘了告诉控件刷新完毕了哦！
-                //  onRefreshThread onfreshthread = new onRefreshThread();
-//                onfreshthread = new onRefreshThread();
-//                onfreshthread.start();
-
+                /**
+                 * 启动下拉刷新的异步线程
+                 */
                 myOnfreshTask = new MyOnfreshTask();
                 myOnfreshTask.execute();
                 pullToRefreshLayout.refreshFinish(PullToRefreshLayout.SUCCEED);
@@ -455,18 +460,20 @@ public class CommunityActivity extends Activity implements PullToRefreshLayout.O
         }.sendEmptyMessageDelayed(0, 1000);
     }
 
-    //加载操作,写上上拉
+    /**
+     * 加载操作上拉
+     * @param pullToRefreshLayout
+     */
     @Override
     public void onLoadMore(final PullToRefreshLayout pullToRefreshLayout) {
-        // 加载操作
         new Handler() {
             @Override
             public void handleMessage(Message msg) {
-                //传递给后台两个参数
-                //     onLoadMoreThread onloadthread = new onLoadMoreThread();
-//                onloadthread = new onLoadMoreThread();
-//                onloadthread.start();
-                // 千万别忘了告诉控件加载完毕了哦！
+                /**
+                 * 传递给后台两个参数
+                 * 启动上拉加载的异步线程
+                 * 千万别忘了告诉控件加载完毕了哦！
+                 */
                 onloadTask = new OnloadTask();
                 onloadTask.execute();
                 pullToRefreshLayout.loadmoreFinish(PullToRefreshLayout.SUCCEED);
@@ -474,60 +481,6 @@ public class CommunityActivity extends Activity implements PullToRefreshLayout.O
             }
         }.sendEmptyMessageDelayed(0, 1000);
     }
-
-//    //下拉刷新
-//    class onRefreshThread extends Thread {
-//        @Override
-//        public void run() {
-//            Log.v("zms", "线程onRefreshThread开始");
-//            Message msg1 = handler.obtainMessage();
-//            msg1.what = 0;
-//            try {
-//                msg1.obj = getcellutil.getHttpJsonByhttpclient(HttpUtil.onRefreshurl);
-//            } catch (IOException e) {
-//                e.printStackTrace();
-//            }
-//            handler.sendMessage(msg1);
-//            super.run();
-//        }
-//    }
-//
-//    //上拉加载的thread
-//    class onLoadMoreThread extends Thread {
-//        @Override
-//        public void run() {
-//            Log.v("zms", "线程onLoadMoreThread开始");
-//            Message msg1 = handler.obtainMessage();
-//            msg1.what = 1;
-//            try {
-//                msg1.obj = getcellutil.getHttpJsonByhttpclient(HttpUtil.onRefreshurl + "?operation=up" + "&position=" + listView.getCount());
-//            } catch (IOException e) {
-//                e.printStackTrace();
-//            }
-//            handler.sendMessage(msg1);
-//            super.run();
-//        }
-//    }
-//
-//    //搜索的thread
-//    class accessThreadSearch extends Thread {
-//        String edittext = edit_search.getText().toString();
-//
-//        @Override
-//        public void run() {
-//            Log.v("zms", "线程accessThreadSearch开始");
-//            Message msg2 = handlersearch.obtainMessage();
-//            try {
-//                msg2.obj = getcellutil.getHttpJsonByhttpclient(HttpUtil.searchUrl + "?keyword=" + edittext);
-//
-//            } catch (IOException e) {
-//                e.printStackTrace();
-//            }
-//            handlersearch.sendMessage(msg2);
-//            super.run();
-//        }
-//    }
-
     /**
      * 搜索的异步任务
      */
@@ -553,7 +506,7 @@ public class CommunityActivity extends Activity implements PullToRefreshLayout.O
          */
         @Override
         protected void onPostExecute(JSONObject jsonObject) {
-            if (isCancelled()){
+            if (isCancelled()) {
                 return;
             }
             Log.d("handlerSearch", "search");
@@ -687,7 +640,7 @@ public class CommunityActivity extends Activity implements PullToRefreshLayout.O
                             if (i == 0) {
                                 Log.d("pullHandler", jsonObject.toString());
                             }
-                            System.out.print(">>>>>>>>>>>>>>>>>>>>>>>>>>" + jsonObjectSon.toString());
+                            System.out.print(">>>>>>>" + jsonObjectSon.toString());
                             ITopics topic = (ITopics) JSONToObj(jsonObjectSon.toString(), ITopics.class);
                             topics.add(topic);
                         }
@@ -705,19 +658,39 @@ public class CommunityActivity extends Activity implements PullToRefreshLayout.O
             super.onPostExecute(jsonObject);
         }
     }
-//    //销毁线程
-//    @Override
-//    protected void onDestroy() {
-//        if (onfreshthread != null) {//下拉
-//            onfreshthread.interrupt();
-//            onfreshthread = null;
-//        }
-//        if (onloadthread != null) {//上拉
-//            onloadthread.interrupt();
-//            onloadthread = null;
-//        }
-//        Log.v("zms", "线程onRefreshThread结束");
-//        Log.v("zms", "线程onLoadMoreThread结束");
-//        super.onDestroy();
-//    }
+
+
+    /**
+     * 删除的异步任务
+     */
+    class DeletAsynctask extends AsyncTask<Map, Void, JSONObject> {
+        @Override
+        protected JSONObject doInBackground(Map... params) {
+            JSONObject jsonObject1;
+            resultmap = RequestUtil.getPDAServerData("delTopic.action?topicId=" + topics.get(Integer.parseInt(delPosition)).getId());
+            jsonObject1 = new JSONObject(resultmap);
+            return jsonObject1;
+        }
+
+        /**
+         * 更新UI
+         *
+         * @param jsonObject
+         */
+        @Override
+        protected void onPostExecute(JSONObject jsonObject) {
+            if (resultmap.get("message").equals("success")) {
+                Toast.makeText(mContext, "删除成功", Toast.LENGTH_SHORT).show();
+                int p = Integer.parseInt(delPosition);
+                if (topics.remove(p) != null) {
+                    System.out.println("success");
+                } else {
+                    System.out.println("failed");
+                }
+                adapter = new MyAdapter(CommunityActivity.this, topics, "");
+                listView.setAdapter(adapter);
+                adapter.notifyDataSetChanged();
+            }
+        }
+    }
 }

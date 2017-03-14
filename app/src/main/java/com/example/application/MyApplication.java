@@ -14,6 +14,9 @@ import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * 加载图片的imageLoader
+ */
 public class MyApplication extends Application{
     public static ImageLoader imageLoader=ImageLoader.getInstance();
     @Override
