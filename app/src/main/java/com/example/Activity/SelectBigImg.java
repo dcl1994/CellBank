@@ -1,16 +1,16 @@
 package com.example.Activity;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.graphics.Matrix;
 import android.os.Bundle;
 import android.os.Handler;
-import android.util.Log;
 import android.view.MotionEvent;
 import android.widget.ImageView;
 
+import com.bumptech.glide.Glide;
 import com.example.smsdemo.R;
 import com.example.util.MyDialog;
 
@@ -27,12 +27,13 @@ public class SelectBigImg extends Activity {
     private ImageView myImgview;
     private String url;
     private Bitmap bitmap;
+    private Context context;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_select_big_img);
         myImgview = (ImageView) findViewById(R.id.select_img); //获取img
-
+        context=SelectBigImg.this;
         final MyDialog dialog = new MyDialog(this);
         dialog.setCanceledOnTouchOutside(false);
         dialog.show();
@@ -43,15 +44,27 @@ public class SelectBigImg extends Activity {
                 dialog.dismiss();
                 //设置图片为bitmap
                 Intent intent = getIntent();
-                if (intent != null) {
-                    url = intent.getStringExtra("url");
-                    myThread thread = new myThread();
-                    thread.start();
-                    while (bitmap == null) {
-                    }
-                    Log.e("test", "bitmap !=null");
-                    myImgview.setImageBitmap(bitmap);
-                }
+                url = intent.getStringExtra("url");
+                /**
+                 * 使用glide加载图片
+                 */
+                Glide.with(context).load(url).into(myImgview);
+
+
+
+//                if (intent != null) {
+//                    url = intent.getStringExtra("url");
+////                    myThread thread = new myThread();
+////                    thread.start();
+//                    while (bitmap == null) {
+//                    }
+//                    Log.e("test", "bitmap !=null");
+////                    myImgview.setImageBitmap(bitmap);
+//                    /**
+//                     * 使用glide加载图片
+//                     */
+//                    Glide.with(context).load(url).into(myImgview);
+//                }
             }
         }, 1000 * 2);
     }
@@ -85,24 +98,24 @@ public class SelectBigImg extends Activity {
     class myThread extends Thread {
         @Override
         public void run() {
-            bitmap = getBitmap(url);
-
-            int width = bitmap.getWidth();
-            int height = bitmap.getHeight();
-            // 设置想要的大小
-            int screenWidth = getWindowManager().getDefaultDisplay().getWidth(); // 屏幕宽（像素，如：480px）
-            int screenHeight = getWindowManager().getDefaultDisplay().getHeight(); // 屏幕高（像素，如：800p）
-            int newWidth = screenWidth;
-            int newHeight = screenHeight;
-            // 计算缩放比例
-            float scaleWidth = ((float) newWidth) / width;
-            float scaleHeight = ((float) newHeight) / height;
-            // 取得想要缩放的matrix参数
-            Matrix matrix = new Matrix();
-            matrix.postScale(scaleWidth, scaleHeight);
-            // 得到新的图片
-            bitmap = Bitmap.createBitmap(bitmap, 0, 0, width, height, matrix,
-                    true);
+            //bitmap = getBitmap(url);
+//
+//            int width = bitmap.getWidth();
+//            int height = bitmap.getHeight();
+//            // 设置想要的大小
+//            int screenWidth = getWindowManager().getDefaultDisplay().getWidth(); // 屏幕宽（像素，如：480px）
+//            int screenHeight = getWindowManager().getDefaultDisplay().getHeight(); // 屏幕高（像素，如：800p）
+//            int newWidth = screenWidth;
+//            int newHeight = screenHeight;
+//            // 计算缩放比例
+//            float scaleWidth = ((float) newWidth) / width;
+//            float scaleHeight = ((float) newHeight) / height;
+//            // 取得想要缩放的matrix参数
+//            Matrix matrix = new Matrix();
+//            matrix.postScale(scaleWidth, scaleHeight);
+//            // 得到新的图片
+//            bitmap = Bitmap.createBitmap(bitmap, 0, 0, width, height, matrix,
+//                    true);
             super.run();
         }
     }

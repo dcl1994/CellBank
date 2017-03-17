@@ -8,8 +8,8 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.bumptech.glide.Glide;
 import com.example.smsdemo.R;
-import com.example.util.ImageLoad;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -56,7 +56,14 @@ public class TeamAdapter  extends BaseAdapter{
         mtext= (TextView) view.findViewById(R.id.teamcontent);
         try {
             mtext.setText(jsonArray.getJSONObject(position).opt("content").toString().replace("\\n","\n"));
-            ImageLoad.loadImg(jsonArray.getJSONObject(position).opt("picture").toString(), mimage);
+
+            /**
+             * 使用glide加载图片
+             */
+            Glide.with(context).load(jsonArray.getJSONObject(position).opt("picture").toString()).into(mimage);
+
+            //ImageLoad.loadImg(jsonArray.getJSONObject(position).opt("picture").toString(), mimage);
+
         } catch (JSONException e) {
             e.printStackTrace();
         }

@@ -20,6 +20,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.bumptech.glide.Glide;
 import com.example.model.IComments;
 import com.example.model.IReplys;
 import com.example.model.ITopics;
@@ -27,7 +28,6 @@ import com.example.smsdemo.R;
 import com.example.util.ChangeTime;
 import com.example.util.CustomDialog;
 import com.example.util.HttpUtil;
-import com.example.util.ImageLoad;
 import com.example.util.MyGridView;
 import com.example.util.RequestUtil;
 
@@ -136,7 +136,12 @@ public class CommentAdapter extends BaseAdapter {
             ITopics topic = HttpUtil.Top2ComList.get(0);
             Log.e("MyAdapter", "话题评论回复页");
             ImageView img_topichead = (ImageView) view.findViewById(R.id.img_topichead);
-            ImageLoad.loadImg(topic.getHeadUrl(), img_topichead);
+         //   ImageLoad.loadImg(topic.getHeadUrl(), img_topichead);
+
+            /**
+             *使用glide加载网络图片
+             */
+            Glide.with(context).load(topic.getHeadUrl()).into(img_topichead);
 
             final MyGridView mygridview;
             mygridview = (MyGridView) view.findViewById(R.id.topic_gridview);
@@ -166,7 +171,13 @@ public class CommentAdapter extends BaseAdapter {
              * 获取用户的头像,评论的头像和Gridview图片
              */
             ImageView img_comment_item = (ImageView) view.findViewById(R.id.img_comment_item);
-            ImageLoad.loadImg(comments.get(position - 1).getHeadUrl(), img_comment_item);
+            //ImageLoad.loadImg(comments.get(position - 1).getHeadUrl(), img_comment_item);
+
+            /**
+             * 使用glide来加载图片
+             */
+            Glide.with(context).load(comments.get(position - 1).getHeadUrl()).into(img_comment_item);
+
             final MyGridView mygridview;
             mygridview = (MyGridView) view.findViewById(R.id.comment_gridview);
 

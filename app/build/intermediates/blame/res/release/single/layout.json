@@ -20,12 +20,12 @@
         "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_text_input_password_icon.xml",
-        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
         "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_text_input_password_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_team_experts.xml",
@@ -128,12 +128,12 @@
         "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_change_group_msg.xml",
-        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_change_group_msg.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\layout\\page_02.xml",
         "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\page_02.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_change_group_msg.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_change_group_msg.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",

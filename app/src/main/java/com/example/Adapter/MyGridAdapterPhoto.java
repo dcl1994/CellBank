@@ -10,10 +10,10 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 
+import com.bumptech.glide.Glide;
 import com.example.Activity.SelectBigImg;
 import com.example.smsdemo.R;
 import com.example.util.HttpUtil;
-import com.example.util.ImageLoad;
 
 import java.util.List;
 
@@ -55,7 +55,14 @@ public class MyGridAdapterPhoto extends BaseAdapter {
             convertView = LayoutInflater.from(mContext).inflate(R.layout.grid_photo, viewGroup, false);
             ImageView iv = (ImageView) convertView.findViewById(R.id.img_photo); //获取图片
             Log.e("图片", a);
-            ImageLoad.loadImg(a, iv);
+            //ImageLoad.loadImg(a, iv);
+
+            /**
+             * 使用glide加载图片
+             */
+            Glide.with(mContext).load(a).into(iv);
+
+
             iv.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {

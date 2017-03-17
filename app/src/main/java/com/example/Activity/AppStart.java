@@ -55,6 +55,9 @@ public class AppStart extends Activity {
             startActivity(intent);
             finish();
         }
+
+
+        /**环信即时通讯 */
         EMClient.getInstance().chatManager().loadAllConversations();
         EMClient.getInstance().groupManager().loadAllGroups();
 

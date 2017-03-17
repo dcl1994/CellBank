@@ -109,6 +109,7 @@
     <orderEntry type="library" exported="" name="ShareSDK-Core-2.8.1" level="project" />
     <orderEntry type="library" exported="" name="universal-image-loader-1.9.5" level="project" />
     <orderEntry type="library" exported="" name="design-24.2.1" level="project" />
+    <orderEntry type="library" exported="" name="glide-3.7.0" level="project" />
     <orderEntry type="library" exported="" name="mobscreenshotcommon" level="project" />
     <orderEntry type="library" exported="" name="SMSSDK-2.1.2-" level="project" />
     <orderEntry type="library" exported="" name="cardview-v7-24.1.1" level="project" />

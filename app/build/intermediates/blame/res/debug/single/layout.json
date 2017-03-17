@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_photo.xml",
         "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\grid_photo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
@@ -120,12 +120,12 @@
         "source": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
-        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_group_details.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_no_image_file.xml",
         "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\plugin_camera_no_image_file.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
+        "source": "D:\\AndroidStudioProjects\\CellBank\\app\\src\\main\\res\\layout\\activity_group_details.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\CellBank\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",

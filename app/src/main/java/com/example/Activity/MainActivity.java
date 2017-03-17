@@ -23,6 +23,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.bumptech.glide.Glide;
 import com.example.Adapter.IndestryAdapter;
 import com.example.Adapter.MyGridAdapter;
 import com.example.Adapter.MyGridAdapter2;
@@ -30,7 +31,6 @@ import com.example.smsdemo.R;
 import com.example.util.ChangeTime;
 import com.example.util.CustomDialog;
 import com.example.util.HttpUtil;
-import com.example.util.ImageLoad;
 import com.example.util.MarqueeText;
 import com.example.util.MyGridView;
 import com.example.util.RequestUtil;
@@ -313,7 +313,14 @@ public class MainActivity extends Activity {
         Log.e("headUrl", headUrl);
         //用户头像
         if (headUrl != null) {
-            ImageLoad.loadImg(headUrl, mytextviewuser);
+        //    ImageLoad.loadImg(headUrl, mytextviewuser);
+
+            /**
+             * 使用glide图片加载框架来加载图片
+             */
+            Glide.with(mContext).load(headUrl).into(mytextviewuser);
+
+
         } else {
             mytextviewuser.setImageResource(R.drawable.user_top);
         }
@@ -497,7 +504,12 @@ public class MainActivity extends Activity {
                     // 初始化图片资源
                     for (String i : imgList) {
                         ImageView imageView = new ImageView(MainActivity.this);
-                        ImageLoad.loadImg(i, imageView);
+                      //  ImageLoad.loadImg(i, imageView);
+                        /**
+                         * 使用glide来加载图片
+                         */
+                        Glide.with(mContext).load(i).into(imageView);
+
                         imageView.setScaleType(ImageView.ScaleType.CENTER_CROP);
                         imageViews.add(imageView);
                     }

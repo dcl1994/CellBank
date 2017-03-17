@@ -9,10 +9,10 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.bumptech.glide.Glide;
 import com.example.model.ITopics;
 import com.example.smsdemo.R;
 import com.example.util.ChangeTime;
-import com.example.util.ImageLoad;
 import com.example.util.MyGridView;
 
 import java.util.List;
@@ -68,7 +68,13 @@ public class MyAdapter extends BaseAdapter {
                 myimg.setVisibility(View.VISIBLE);
                 Log.e("MyAdapter", "" + topics.get(position).getUrlList().get(0));
                 String firstimg = topics.get(position).getUrlList().get(0).toString();
-                ImageLoad.loadImg(firstimg, myimg);
+
+                /**
+                 * 使用glide加载图片
+                 */
+                Glide.with(context).load(firstimg).into(myimg);
+
+                //   ImageLoad.loadImg(firstimg, myimg);
             }
         }
         TextView commentNum = (TextView) view.findViewById(R.id.topic_number_text);
@@ -92,7 +98,12 @@ public class MyAdapter extends BaseAdapter {
                 String headUrl = topics.get(position).getHeadUrl();
                 if (!headUrl.equals("")) {
                     Log.e("MyAdapter", "headUrl:" + headUrl);
-                    ImageLoad.loadImg(headUrl, img_topichead);
+
+                    /**
+                     * 使用glide加载图片
+                     */
+                    Glide.with(context).load(headUrl).into(img_topichead);
+                    //ImageLoad.loadImg(headUrl, img_topichead);
                 }
             }
         }

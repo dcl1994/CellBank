@@ -8,9 +8,9 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.bumptech.glide.Glide;
 import com.example.smsdemo.R;
 import com.example.util.ChangeTime;
-import com.example.util.ImageLoad;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -79,7 +79,14 @@ public class ClinOpenAdapter extends BaseAdapter {
             viewHolder.time.setText(ontime);
             //获取图片
             String imgurl=jsonArray.getJSONObject(position).opt("picture").toString();
-            ImageLoad.loadImg(imgurl,viewHolder.myimag);
+            //ImageLoad.loadImg(imgurl,viewHolder.myimag);
+
+            /**
+             * 使用glide加载图片
+             */
+            Glide.with(context).load(imgurl).into(viewHolder.myimag);
+
+
         } catch (JSONException e) {
             e.printStackTrace();
         }

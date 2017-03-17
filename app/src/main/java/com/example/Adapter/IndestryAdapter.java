@@ -8,9 +8,9 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.bumptech.glide.Glide;
 import com.example.smsdemo.R;
 import com.example.util.ChangeTime;
-import com.example.util.ImageLoad;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -63,7 +63,13 @@ public class IndestryAdapter extends BaseAdapter {
             String ontime = ChangeTime.TimeStamp2Date(jsonArray.getJSONObject(position).opt("clock").toString(), "yyyy-MM-dd HH:mm:ss");
             //获取图片
             String imgurl = jsonArray.getJSONObject(position).opt("picture").toString();
-            ImageLoad.loadImg(imgurl, viewHolder.myimag);
+//            ImageLoad.loadImg(imgurl, viewHolder.myimag);
+
+            /**
+             * 使用glide加载图片
+             */
+            Glide.with(context).load(imgurl).into(viewHolder.myimag);
+
        //     viewHolder.myimag.setImageResource();
             viewHolder.titletext.setText(jsonArray.getJSONObject(position).opt("title").toString());
             viewHolder.cmttext.setText(jsonArray.getJSONObject(position).opt("content").toString());

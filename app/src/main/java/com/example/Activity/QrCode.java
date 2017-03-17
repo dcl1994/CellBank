@@ -1,6 +1,7 @@
 package com.example.Activity;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Bitmap;
@@ -10,8 +11,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.bumptech.glide.Glide;
 import com.example.smsdemo.R;
-import com.example.util.ImageLoad;
 import com.xys.libzxing.zxing.encoding.EncodingUtils;
 
 public class QrCode extends Activity {
@@ -19,7 +20,7 @@ public class QrCode extends Activity {
      * 我的二维码界面，生成二维码
      * @param savedInstanceState
      */
-
+    private Context mContext;
     private TextView mytextback;
     private final String PREFERENCES_NAME = "userinfo";
     private String userid;
@@ -29,7 +30,7 @@ public class QrCode extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_qr_code);
-
+        mContext=QrCode.this;
         //拿到用户的userid
         SharedPreferences preferences = getSharedPreferences(PREFERENCES_NAME, Activity.MODE_PRIVATE);
         userid = preferences.getString("userid", userid);
@@ -51,7 +52,10 @@ public class QrCode extends Activity {
         String address=intent.getStringExtra("address");
         String url=intent.getStringExtra("url");
         if (intent!=null) {
-            ImageLoad.loadImg(url,myuserimg);
+           // ImageLoad.loadImg(url,myuserimg);
+
+            Glide.with(mContext).load(url).into(myuserimg);
+
             myqrcode_username.setText(username);
             myqrcode_address.setText(address);
         }else {

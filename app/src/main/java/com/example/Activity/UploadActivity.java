@@ -26,10 +26,10 @@ import android.widget.PopupWindow;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import com.bumptech.glide.Glide;
 import com.example.smsdemo.R;
 import com.example.util.HttpGetUtil;
 import com.example.util.HttpUtil;
-import com.example.util.ImageLoad;
 import com.example.util.UploadUtil;
 import com.example.util.Utils;
 
@@ -400,7 +400,14 @@ public class UploadActivity extends Activity implements OnClickListener {
                             tv_username.setText(username);
                             if (!headUrl.equals("")) {
                                 //  new ImageLoader().showImageByAsyncTask(myiv_personal_icon, headUrl);
-                                ImageLoad.loadImg(headUrl, myiv_personal_icon);
+                                //ImageLoad.loadImg(headUrl, myiv_personal_icon);
+
+                                /**
+                                 * 使用glide加载图片
+                                 */
+                                Glide.with(mcontext).load(headUrl).into(myiv_personal_icon);
+
+
                             }
                         }
                     } catch (JSONException e) {
@@ -416,7 +423,13 @@ public class UploadActivity extends Activity implements OnClickListener {
                         Log.e("handler", jsonArray.getJSONObject(0).toString());
                         String headUrl = jsonArray.getJSONObject(0).opt("headUrl").toString();
                         if (headUrl != null && !headUrl.equals("")) {
-                            ImageLoad.loadImg(headUrl, myiv_personal_icon);
+                           // ImageLoad.loadImg(headUrl, myiv_personal_icon);
+
+                            /**
+                             * 使用glide加载网络图片
+                             */
+                               Glide.with(mcontext).load(headUrl).into(myiv_personal_icon);
+
                             //将headurl存到缓存中
                             SharedPreferences preferences = getSharedPreferences(PREFERENCES_NAME, Activity.MODE_PRIVATE);
                             SharedPreferences.Editor editor = preferences.edit();
